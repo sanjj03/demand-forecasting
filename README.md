@@ -35,11 +35,12 @@ LightGBM reduces SMAPE by **32.6%** vs the naive baseline.
 
 ## Screenshots
 
-![Forecast vs actual](docs/dashboard_forecast.jpg)
-![SQL insights](docs/dashboard_sql_insights.jpg)
-![Model details](docs/dashboard_model_details.jpg)
+![Forecast vs actual](docs/dashboard_forecast.jpeg)
+![SQL insights](docs/dashboard_sql_insights.jpeg)
+![Model details](docs/dashboard_model_details.jpeg)
 ![MLflow run comparison](docs/mlflow_compare.jpeg)
-![API](docs/api_forecast.png)
+![MLflow runs table](docs/mlflow_runs.jpeg)
+![API response](docs/api_forecast2.png)
 
 ## Project structure
 
