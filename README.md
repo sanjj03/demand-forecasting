@@ -2,7 +2,7 @@
 
 End-to-end demand forecasting for 10 stores × 50 items (913K daily records): SQL analysis, time-series ML with experiment tracking, a REST API, and an interactive dashboard with an inventory planning view.
 
-**Live demo:** coming soon
+**Live demo:** https://demand-forecasting-yss2wmdnhizcyfk96ezrwn.streamlit.app/
 
 ![Dashboard](docs/dashboard_inventory.jpeg)
 
