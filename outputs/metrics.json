@@ -1,0 +1,31 @@
+{
+  "best_config": "lgbm_large",
+  "validation_smape": {
+    "lgbm_small": 11.258,
+    "lgbm_medium": 11.157,
+    "lgbm_large": 11.13
+  },
+  "test": {
+    "naive_lag7": {
+      "smape": 18.566,
+      "mae": 9.069,
+      "wape": 16.6
+    },
+    "avg_of_lags": {
+      "smape": 17.173,
+      "mae": 8.572,
+      "wape": 15.691
+    },
+    "lightgbm": {
+      "smape": 12.507,
+      "mae": 5.94,
+      "wape": 10.872
+    }
+  },
+  "smape_improvement_vs_naive_pct": 32.64,
+  "data_start": "2013-01-01",
+  "data_end": "2017-12-31",
+  "test_start": "2017-10-03",
+  "n_rows_total": 913000,
+  "n_series": 500
+}

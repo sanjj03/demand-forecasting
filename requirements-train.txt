@@ -1,0 +1,9 @@
+-r requirements.txt
+lightgbm
+scikit-learn
+mlflow
+joblib
+fastapi
+uvicorn
+shap
+matplotlib
